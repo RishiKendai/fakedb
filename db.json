@@ -1,0 +1,37 @@
+{
+  "total_students": 100,
+  "present_students": 80,
+  "absent_students": 20,
+  "daily_attendance": [
+    {
+      "date": "2022-03-01",
+      "present_percentage": 75,
+      "absent_percentage": 25
+    },
+    {
+      "date": "2022-03-02",
+      "present_percentage": 85,
+      "absent_percentage": 15
+    },
+    {
+      "date": "2022-03-03",
+      "present_percentage": 70,
+      "absent_percentage": 30
+    }
+  ],
+  "average_attendance_percentage": 80,
+  "frequent_absentees": [
+    {
+      "name": "John Doe",
+      "sessions_absent": 5
+    },
+    {
+      "name": "Jane Smith",
+      "sessions_absent": 4
+    },
+    {
+      "name": "Bob Johnson",
+      "sessions_absent": 3
+    }
+  ]
+}
